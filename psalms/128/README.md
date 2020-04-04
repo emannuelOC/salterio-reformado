@@ -42,28 +42,53 @@ w: Em gra-ci-o-sa paz.
 ```
 
 Feliz o homem sincero
+
 Que teme ao Senhor
+
 Com zelo e com esmero
+
 E o serve com amor,
+
 Obrando dia a dia 
+
 Te alimentarás
+
 Grande é tua alegria,
+
 Sempre prosperarás.
 
+----
+
 Por benção verdadeira
+
 Tua esposa em teu lar
+
 É tal como a videira
+
 Sempre a frutificar. 
+
 Teus filhos são rebentos
+
 De oliveira sã 
+
 Estão como ornamentos
+
 À mesa de manhã.
 
+----
+
 Assim abençoado
+
 Será quem teme a Deus
+
 Sempre em feliz estado
+
 Sob os cuidados seus.
+
 No Senhor confiando 
+
 Teus netos tu verás
+
 E Israel prosperando
+
 Em graciosa paz.

@@ -1,7 +1,7 @@
 # Salmos Metrificados Segundo as Melodias de Genebra
 
-[Partitura](pdf/Salmo19.pdf) 
-[Áudio](mp3/Salmo19.mp3)
+- [Partitura](pdf/Salmo19.pdf) 
+- [Áudio](mp3/Salmo19.mp3)
 
 ## Salmo 19
 

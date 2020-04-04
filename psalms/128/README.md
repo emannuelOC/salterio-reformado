@@ -1,7 +1,7 @@
 # Salmos Metrificados Segundo as Melodias de Genebra
 
-[Partitura](pdf/Salmo128.pdf) 
-[Áudio](mp3/Salmo128.mp3)
+- [Partitura](pdf/Salmo128.pdf) 
+- [Áudio](mp3/Salmo128.mp3)
 
 ## Salmo 128
 

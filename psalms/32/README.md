@@ -1,7 +1,7 @@
 # Salmos Metrificados Segundo as Melodias de Genebra
 
-[Partitura](pdf/Salmo32.pdf) 
-[Áudio](mp3/Salmo32.mp3)
+- [Partitura](pdf/Salmo32.pdf) 
+- [Áudio](mp3/Salmo32.mp3)
 
 ## Salmo 32
 

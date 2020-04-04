@@ -4,13 +4,13 @@ Versões metrificadas segundo as melodias e métricas do Saltério de Genebra (t
 
 ## Salmos
 
-[Salmo 19](psalms/pdf/Salmo19.pdf)
+[Salmo 19](psalms/pdf/Salmo19.pdf) "Os céus e seu explendor..."
 
-[Salmo 32](psalms/pdf/Salmo32.pdf)
+[Salmo 32](psalms/pdf/Salmo32.pdf) "Feliz aquele a quem Deus por sua graça..."
 
-[Salmo 84](psalms/pdf/Salmo84.pdf)
+[Salmo 84](psalms/pdf/Salmo84.pdf) "Rei dos reis, Senhor e meu Deus..."
 
-[Salmo 128](psalms/pdf/Salmo128.pdf)
+[Salmo 128](psalms/pdf/Salmo128.pdf) "Feliz o homem sincero..."
 
 ## Método
 

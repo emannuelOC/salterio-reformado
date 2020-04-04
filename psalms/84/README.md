@@ -1,11 +1,10 @@
 
 # Salmos Metrificados Segundo as Melodias de Genebra
 
-
+[Partitura](pdf/Salmo84.pdf) 
+[Áudio](mp3/Salmo84.mp3)
 
 ## Salmo 84
-
-[Partitura](pdf/Salmo84.pdf) [Áudio](mp3/84.mp3)
 
 Rei dos reis, Senhor e meu Deus,<br>
 Tua morada, os átrios teus,<br>

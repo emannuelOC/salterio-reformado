@@ -4,7 +4,7 @@ Versões metrificadas segundo as melodias e métricas do Saltério de Genebra (t
 
 ## Salmos
 
-[Salmo 32](psalms/html/Salmo32.html)
+[Salmo 32](psalms/pdf/Salmo32.pdf)
 
-[Salmo 128](psalms/html/Salmo128.html)
+[Salmo 128](psalms/pdf/Salmo128.pdf)
 

@@ -1,7 +1,7 @@
 X:1
 T:Salmo 32
 K:D
-D4 F4 G4 A4 A4 A2 F2 G2 A2 B4 A4
+D4 F4 G4 A4 A4 A2 F2 G2 A2 B4 A2
 w: Fe-liz a-que-le~a quem Deus por sua gra-ça 
 w: Quan-do ca-la-do~es-con-do a mi-nha~o-fen-sa,
 w: Mas quan-do ve-nho~a ti e me con-fes-so

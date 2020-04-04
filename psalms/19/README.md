@@ -106,93 +106,93 @@ w:Dá-me da tua cle-mên-cia
 w:E~es-tás sem-pre~ao meu la-do
 ```
 
-Os céus e seu explendor,
-A glória do Senhor,
-Proclamam sem cessar;
-Em sua imensidão,
-As obras de sua mão,
-Não deixam de anunciar.
-O dia que passou,
-Seu saber revelou,
-Ao dia que o sucede;
-A noite assim também,
-Conhecimento obtém
-Da noite que a antecede.
-
-Mesmo que sem falar,
-Não há qualquer lugar,
-Que não escute a voz
-Da doce instrução
-E da fiel lição
-Que o céu proclama a nós.
-Por todas as nações
-E nas imensidões
-Por sobre o mar profundo,
-Lá sobre o azul lençol,
-O majestoso sol
-Mostra sua luz ao mundo.
-
-Tal como um noivo vem 
-Do oriente além
-Até o poente vai.
-Como um herói conduz,
-Seu caminhar em luz,
-E a escuridão se esvai.
-Desde o amanhecer,
-Os céus a percorrer,
-De um a outro limite.
-Nada pode se opor,
-Ou fugir do calor,
-Que todo o dia emite.
-
-Perfeita é a santa Lei,
-Do nosso Deus e Rei,
-Que nossa alma refaz.
-Na Sua instrução,
-Recebe o coração
-Sabedoria e paz.
-Suas lições sem par,
-Sempre a nos alegrar,
-Nos erguem, nos animam.
-Os mandamentos teus,
-Tão puros, ó bom Deus!
-Nosso olhar iluminam.
-
-Límpido é o teu temor,
-Nosso fiel Senhor,
-Pra sempre durará.
-E os juízos teus,
-São justos, ó bom Deus,
-Nada os impedirá.
-Mais valiosos são
-Que o ouro e assim serão,
-Sempre mais desejáveis.
-Mais doces são que o mel,
-Ó nosso Deus fiel,
-Muito mais agradáveis.
-
-Pois quem te quer servir,
-Agora e no porvir,
-Neles guiados são.
-Vivem pra obedecer,
-De ti vão receber,
-Bênçãos da tua mão.
-Quem pode enxergar,
-As faltas e o pecar,
-De que não tem ciência?
-Peço-te, ó Senhor,
-Por teu imenso amor,
-Dá-me da tua clemência!
-
-Do orgulho e transgressão,
-Livra o meu coração,
-Por tua graça, ó Deus.
-Limpo então eu serei,
-Te glorificarei,
-Sempre nos braços teus.
-Que tudo o que eu falar,
-Tudo o que eu pensar,
-Seja do teu agrado.
-Meu Deus e meu Senhor,
-Tu que és meu Salvador,
+Os céus e seu explendor,<br>
+A glória do Senhor,<br>
+Proclamam sem cessar;<br>
+Em sua imensidão,<br>
+As obras de sua mão,<br>
+Não deixam de anunciar.<br>
+O dia que passou,<br>
+Seu saber revelou,<br>
+Ao dia que o sucede;<br>
+A noite assim também,<br>
+Conhecimento obtém<br>
+Da noite que a antecede.<br>
+<br>
+Mesmo que sem falar,<br>
+Não há qualquer lugar,<br>
+Que não escute a voz<br>
+Da doce instrução<br>
+E da fiel lição<br>
+Que o céu proclama a nós.<br>
+Por todas as nações<br>
+E nas imensidões<br>
+Por sobre o mar profundo,<br>
+Lá sobre o azul lençol,<br>
+O majestoso sol<br>
+Mostra sua luz ao mundo.<br>
+<br>
+Tal como um noivo vem <br>
+Do oriente além<br>
+Até o poente vai.<br>
+Como um herói conduz,<br>
+Seu caminhar em luz,<br>
+E a escuridão se esvai.<br>
+Desde o amanhecer,<br>
+Os céus a percorrer,<br>
+De um a outro limite.<br>
+Nada pode se opor,<br>
+Ou fugir do calor,<br>
+Que todo o dia emite.<br>
+<br>
+Perfeita é a santa Lei,<br>
+Do nosso Deus e Rei,<br>
+Que nossa alma refaz.<br>
+Na Sua instrução,<br>
+Recebe o coração<br>
+Sabedoria e paz.<br>
+Suas lições sem par,<br>
+Sempre a nos alegrar,<br>
+Nos erguem, nos animam.<br>
+Os mandamentos teus,<br>
+Tão puros, ó bom Deus!<br>
+Nosso olhar iluminam.<br>
+<br>
+Límpido é o teu temor,<br>
+Nosso fiel Senhor,<br>
+Pra sempre durará.<br>
+E os juízos teus,<br>
+São justos, ó bom Deus,<br>
+Nada os impedirá.<br>
+Mais valiosos são<br>
+Que o ouro e assim serão,<br>
+Sempre mais desejáveis.<br>
+Mais doces são que o mel,<br>
+Ó nosso Deus fiel,<br>
+Muito mais agradáveis.<br>
+<br>
+Pois quem te quer servir,<br>
+Agora e no porvir,<br>
+Neles guiados são.<br>
+Vivem pra obedecer,<br>
+De ti vão receber,<br>
+Bênçãos da tua mão.<br>
+Quem pode enxergar,<br>
+As faltas e o pecar,<br>
+De que não tem ciência?<br>
+Peço-te, ó Senhor,<br>
+Por teu imenso amor,<br>
+Dá-me da tua clemência!<br>
+<br>
+Do orgulho e transgressão,<br>
+Livra o meu coração,<br>
+Por tua graça, ó Deus.<br>
+Limpo então eu serei,<br>
+Te glorificarei,<br>
+Sempre nos braços teus.<br>
+Que tudo o que eu falar,<br>
+Tudo o que eu pensar,<br>
+Seja do teu agrado.<br>
+Meu Deus e meu Senhor,<br>
+Tu que és meu Salvador,<br>
 E estás sempre ao meu lado.

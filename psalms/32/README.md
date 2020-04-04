@@ -58,47 +58,47 @@ w: E co-mo~ao teu Se-nhor de-ves ser-vir.
 w: E pa-ra sem-pre~en-to-a~o seu lou-vor.
 ```
 
-Feliz aquele a quem Deus por sua graça 
-Perdoa a iniquidade e não rechaça,
-Quão bem-aventurado é o varão
-Cujos pecados perdoados são,
-Outra vez digo: quão feliz é o homem
-Cujos pecados diante de Deus somem
-E das fraquezas que neste homem há
-A culpa Deus não lhe imputará.
-
-Quando calado escondo a minha ofensa,
-Guardo em silêncio iniquidade extensa,
-De dor em dor eu choro sem cessar
-E nos meus ossos sinto o esmagar
-Da tua mão pesando noite e dia,
-O meu vigor se torna em agonia.
-E sob o peso grave da tua mão 
-A força em mim se torna em sequidão.
-
-Mas quando venho a ti e me confesso
-Por tua misericórdia e amor eu peço,
-Percebo quão grandioso é o teu perdão 
-Por perdoar meu ímpio coração.
-Do homem piedoso e dedicado
-Tu te permitirás ser encontrado.
-E quando a água vier a transbordar
-A tua boa mão o vai livrar.
-
-Pois tu somente, ó Deus, és meu abrigo,
-Que me protege de todo perigo.
-E cada dia uma nova razão
-Me dás pra te louvar de coração,
-Vem, te darei o meu ensinamento
-Para que andes com discernimento,
-E pra que vejas por onde seguir,
-E como ao teu Senhor deves servir.
-
-Não sejas como mulas ou cavalos,
-Não queiras também nunca imitá-los,
-Não tendo entendimento ou razão,
-Com freios são guiados pela mão.
-O ímpio sofre angústia e agonia
-Mas Deus ampara quem nele confia.
-Alegra-te pra sempre no Senhor,
+Feliz aquele a quem Deus por sua graça<br>
+Perdoa a iniquidade e não rechaça,<br>
+Quão bem-aventurado é o varão<br>
+Cujos pecados perdoados são,<br>
+Outra vez digo: quão feliz é o homem<br>
+Cujos pecados diante de Deus somem<br>
+E das fraquezas que neste homem há<br>
+A culpa Deus não lhe imputará.<br>
+<br>
+Quando calado escondo a minha ofensa,<br>
+Guardo em silêncio iniquidade extensa,<br>
+De dor em dor eu choro sem cessar<br>
+E nos meus ossos sinto o esmagar<br>
+Da tua mão pesando noite e dia,<br>
+O meu vigor se torna em agonia.<br>
+E sob o peso grave da tua mão <br>
+A força em mim se torna em sequidão.<br>
+<br>
+Mas quando venho a ti e me confesso<br>
+Por tua misericórdia e amor eu peço,<br>
+Percebo quão grandioso é o teu perdão <br>
+Por perdoar meu ímpio coração.<br>
+Do homem piedoso e dedicado<br>
+Tu te permitirás ser encontrado.<br>
+E quando a água vier a transbordar<br>
+A tua boa mão o vai livrar.<br>
+<br>
+Pois tu somente, ó Deus, és meu abrigo,<br>
+Que me protege de todo perigo.<br>
+E cada dia uma nova razão<br>
+Me dás pra te louvar de coração,<br>
+Vem, te darei o meu ensinamento<br>
+Para que andes com discernimento,<br>
+E pra que vejas por onde seguir,<br>
+E como ao teu Senhor deves servir.<br>
+<br>
+Não sejas como mulas ou cavalos,<br>
+Não queiras também nunca imitá-los,<br>
+Não tendo entendimento ou razão,<br>
+Com freios são guiados pela mão.<br>
+O ímpio sofre angústia e agonia<br>
+Mas Deus ampara quem nele confia.<br>
+Alegra-te pra sempre no Senhor,<br>
 E para sempre entoa o seu louvor.

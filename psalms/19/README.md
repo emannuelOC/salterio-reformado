@@ -5,7 +5,7 @@
 
 ## Salmo 19
 
-Os céus e seu explendor,<br>
+Os céus e seu esplendor,<br>
 A glória do Senhor,<br>
 Proclamam sem cessar;<br>
 Em sua imensidão,<br>

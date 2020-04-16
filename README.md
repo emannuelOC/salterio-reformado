@@ -4,7 +4,7 @@ Versões metrificadas segundo as melodias e métricas do Saltério de Genebra (t
 
 ## Salmos
 
-[Salmo 19](psalms/19/) "Os céus e seu explendor..."
+[Salmo 19](psalms/19/) "Os céus e seu esplendor..."
 
 [Salmo 32](psalms/32/) "Feliz aquele a quem Deus por sua graça..."
 

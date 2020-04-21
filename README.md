@@ -12,6 +12,8 @@ Versões metrificadas segundo as melodias e métricas do Saltério de Genebra (t
 
 [Salmo 128](psalms/128/) "Feliz o homem sincero..."
 
+[Salmo 134](psalms/134) "Vós que sois servos do Senhor..."
+
 ## Método
 
 A melodia, métrica e rimas são obtidas a partir do blog [Psautier de Genève](http://psautierdegeneve.blogspot.com/2012/09/psaume-84.html). Depois disso é criada a letra do salmo em português, seguindo os mesmos padrões de rima da versão francesa.

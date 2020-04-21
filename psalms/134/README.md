@@ -1,5 +1,8 @@
 # Salmos Metrificados Segundo as Melodias de Genebra
 
+- [Partitura](pdf/134.pdf) 
+- [Áudio](mp3/134.mp3)
+
 ## Salmo 134
 
 Vós que sois servos do Senhor,<br>

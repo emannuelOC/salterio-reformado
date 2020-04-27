@@ -7,8 +7,8 @@
 
 Vós que sois servos do Senhor,<br>
 Que trabalhais em seu labor,<br>
-À noite em sua casa estão,<br>
-Rendei-lhe vossa oração.<br>
+À noite em sua casa estais,<br>
+Rendei-lhe as preces que orais.<br>
 <br>
 Ao seu bendito e santo altar,<br>
 Onde o Senhor se faz achar,<br>

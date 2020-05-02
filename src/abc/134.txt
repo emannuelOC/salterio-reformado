@@ -1,0 +1,19 @@
+X:1
+T:Salmo 134
+K:G
+G4 G2 F2 E2 D2 G4 A4 B4 z4
+w:Vós que sois ser-vos do Se-nhor
+w:Ao seu ben-di-to~e san-to~al-tar
+w:Da ter-ra~e céu o Cri-a-dor,
+B4 B2 B2 A2 G2 c4 B4 A4 z4
+w:Que tra-ba-lhais em seu la-bor,
+w:On-de~o Se-nhor se faz a-char,
+w:E-ter-no Deus, nos-so Se-nhor,
+G4 A2 B2 A2 G2 E4 F4 G4 z4
+w:À noi-te~em su-a ca-sa~es-tão
+w:As vos-sas mãos pra sem-pre~er-guei,
+w:Que guar-da to-da~a cri-a-ção,
+d4 B4 G4 A2 c2 B4 A4 G8
+w:Ren-dei-lhe vos-sa o-ra-ção.
+w:E sua bon-da-de ben-di-zei.
+w:Te a-ben-ço-e de Si-ão.

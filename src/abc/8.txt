@@ -1,0 +1,43 @@
+X:1
+T:Salmo 8
+K:F
+C4 E4 F4 G4 c4 B2 A2 G2 B2 A4 G4 z4
+w: Ó nos-so Deus, o To-do-Po-de-ro-so,
+w: Na bo-ca da cri-an-ça cal-ma~e ter-na,
+w: Quan-do con-tem-plo~os teus gran-des se-gre-dos,
+w: O que~é o ho-mem, ó Se-nhor a-ma-do?
+w: Mas, por um pou-co so-men-te,~o fi-zes-te,
+w: Se-nhor, as tu-as o-bras são tão be-las!
+w: Os a-ni-mais que pas-tam nos ou-tei-ros,
+w: As a-ves que nos céus a-le-gres can-tam,
+w: Ó nos-so Deus, o To-do-Po-de-ro-so,
+c4 c2 c2 B4 d4 c2 G2 _A2 G2 F4 E4 z4
+w: Teu san-to no-me é tão gran-di-o-so!
+w: Mos-tra-nos tu-a for-ça gran-de~e~e-ter-na,
+w: O céu gran-dio-so, o-bra dos teus de-dos,
+w: Ou o seu fi-lho pa-ra ser lem-bra-do?
+w: Me-nor que~os an-jos da man-são ce-les-te;
+w: Des-te~o do-mí-nio~ao ho-mem so-bre e-las,
+w: To-dos os bois, o-ve-lhas e car-nei-ros,
+w: E que, vo-an-do,~o nos-so~o-lhar en-can-tam,
+w: Teu san-to no-me é tão gran-di-o-so!
+E4 D2 D2 C4 G4 B2 B2 F4 _A4 G4
+w: Nos al-tos céus to-do~ho-mem po-de ver,
+w: Por su-a voz os i-ni-mi-gos teus,
+w: Tan-tas es-tre-las lin-das a bri-lhar,
+w: Pra que~a tua gra-ça~o pos-sa vi-si-tar?
+w: Gló-ria su-bli-me~e hon-ra tal, sem par,
+w: O que cri-as-te, sem u-ma~ex-ces-são,
+w: Mes-mo~os que vi-vem lon-ge~em sel-va~a-troz,
+w: Tam-bém os pei-xes do pro-fun-do mar,
+w: Nos al-tos céus to-do~ho-mem po-de ver,
+z2 F2 B4 c4 G4 B4 G2 F2 E4 D4 C8
+w: A tu-a ma-jes-ta-de~e~o teu po-der.
+w: São con-fun-di-dos, ó ben-di-to Deus.
+w: E~o do-ce~e ter-no bri-lho do lu-ar.
+w: E tua bon-da-e~o ve-nha~a-ben-ço-ar?
+w: Tu es-co-lhes-te pa-ra~o co-ro-ar. 
+w: Sob os seus pés pu-ses-te~em su-jei-ção.
+w: Fa-ze~os tre-mer ao som da su-a voz. 
+w: Fi-zes-te~o ho-mem so-bre~e-les rei-nar.
+w: A tu-a ma-jes-ta-de~e~o teu po-der.

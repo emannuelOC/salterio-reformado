@@ -1,0 +1,21 @@
+X:1
+T:Salmo 32
+K:F
+c2 d2 c2 B4 A4 G4 z4
+w:A-go-ra po-des já
+w:E es-ta sal-va-ção
+B4 A2 F2 G2 G2 F4 z4
+w:Se-nhor dei-xar que~eu vá
+w:Dás a to-da na-ção
+F4 c2 c2 d2 c2 B4 A4 z4
+w:Em paz co-mo dis-ses-te
+w:A-té o fim da~his-tó-ria
+c4 A2 B2 A2 G2 F4 z4
+w:Pois com os o-lhos meus,
+w:Que tu-a mão con-duz
+F4 D2 E2 F2 D2 C4 z4
+w:Já ve-jo,~ó nos-so Deus,
+w:Pa-ra~os gen-tios a luz
+F4 G2 A2 B2 A2 G4 F8
+w:A sal-va-ção que des-te
+w:E de~Is-ra-el a gló-ria

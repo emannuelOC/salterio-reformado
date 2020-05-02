@@ -7,8 +7,8 @@
 
 Vós que sois servos do Senhor,<br>
 Que trabalhais em seu labor,<br>
-À noite em sua casa estão,<br>
-Rendei-lhe vossa oração.<br>
+No templo ao anoitecer,<br>
+Nunca o cessais de bendizer.<br>
 <br>
 Ao seu bendito e santo altar,<br>
 Onde o Senhor se faz achar,<br>

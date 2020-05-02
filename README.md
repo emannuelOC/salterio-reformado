@@ -4,17 +4,19 @@ Versões metrificadas segundo as melodias e métricas do Saltério de Genebra (t
 
 ## Salmos
 
-[Salmo 19](psalms/19/) "Os céus e seu esplendor..."
+[Salmo 8](psalms/8/README.md) "Ó nosso Deus, o Todo-Poderoso..."
 
-[Salmo 32](psalms/32/) "Feliz aquele a quem Deus por sua graça..."
+[Salmo 19](psalms/19/README.md) "Os céus e seu esplendor..."
 
-[Salmo 84](psalms/84/) "Rei dos reis, Senhor e meu Deus..."
+[Salmo 32](psalms/32/README.md) "Feliz aquele a quem Deus por sua graça..."
 
-[Salmo 128](psalms/128/) "Feliz o homem sincero..."
+[Salmo 84](psalms/84/README.md) "Rei dos reis, Senhor e meu Deus..."
 
-[Salmo 134](psalms/134) "Vós que sois servos do Senhor..."
+[Salmo 128](psalms/128/README.md) "Feliz o homem sincero..."
 
-[Cântico de Simeão](psalms/nunc-dimittis/) "Agora podes já..."
+[Salmo 134](psalms/134/README.md) "Vós que sois servos do Senhor..."
+
+[Cântico de Simeão](psalms/nunc-dimittis/README.md) "Agora podes já..."
 
 ## Método
 

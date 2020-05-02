@@ -1,3 +1,8 @@
+# Salmos Metrificados Segundo as Melodias de Genebra
+
+- [Partitura](pdf/Salmo8.pdf) 
+- [Áudio](mp3/Salmo8.mp3)
+
 # Salmo 8
 
 Ó nosso Deus, o Todo-Poderoso,<br>

@@ -32,7 +32,7 @@ Tu escolheste para o coroar. <br>
 <br>
 Senhor, as tuas obras são tão belas!<br>
 Deste o domínio ao homem sobre elas,<br>
-O que criaste, sem uma excessão,<br>
+O que criaste, sem uma exceção,<br>
 Sob os seus pés puseste em sujeição.<br>
 <br>
 Os animais que pastam nos outeiros,<br>

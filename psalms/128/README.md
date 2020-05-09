@@ -15,7 +15,7 @@ Te alimentarás<br>
 Grande é tua alegria,<br>
 Sempre prosperarás.<br>
 <br>
-Por benção verdadeira<br>
+Por bênção verdadeira<br>
 Tua esposa em teu lar<br>
 É tal como a videira<br>
 Sempre a frutificar. <br>

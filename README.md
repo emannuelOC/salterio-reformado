@@ -2,6 +2,10 @@
 
 Versões metrificadas segundo as melodias e métricas do Saltério de Genebra (também conhecido como Saltério Huguenote).
 
+## Saltério completo
+
+Arquivo com o saltério completo [aqui](AlgunsSalmosFromHTML.pdf).
+
 ## Salmos
 
 [Salmo 8](psalms/8/README.md) "Ó nosso Deus, o Todo-Poderoso..."

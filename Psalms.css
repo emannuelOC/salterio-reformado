@@ -1,0 +1,13 @@
+
+.abc-notation-block {
+  page-break-before: always;
+  width: 750px;
+}
+
+body {
+	font-family: "Lato,Helvetica Neue,Helvetica,sans-serif";
+}
+
+h2 {
+  page-break-before: always;
+}

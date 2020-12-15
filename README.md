@@ -4,7 +4,7 @@ Versões metrificadas segundo as melodias e métricas do Saltério de Genebra (t
 
 ## Saltério completo
 
-Arquivo com o saltério completo [aqui](AlgunsSalmosFromHTML.pdf).
+Arquivo com o saltério completo [aqui](AlgunsSalmos.pdf).
 
 ## Salmos
 
